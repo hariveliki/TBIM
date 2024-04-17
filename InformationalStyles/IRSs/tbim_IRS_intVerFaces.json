@@ -1,0 +1,349 @@
+[
+    
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Int_AreatedBrickWall_17(1)"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PublicCirculation",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "PublicCirculation-PrivateCirculation",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 0,
+        "stFC_DoorCount": 0,
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-NoCirculation",
+        "cnFC_contains_pr_OccupancyType": "Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 2,
+        "stFC_DoorCount": 2,
+        "stFC_DoorHeight": 232,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 132
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonCorridor-Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 232,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 132
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Circulation:CommonCorridor-Circulation:CommonHallway",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 180,
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Staircase",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Fake",
+        "stFC_ApertureCount": 0,
+        "stFC_HoleCount": 1,
+        "stFC_HoleWidth":120,
+        "stFC_HoleHeight":230
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Staircase",
+        "cnFC_equalTo_pr_FaceExposure": "N",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 210
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Elevator",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_WallTypeName": "WA_Int_AreatedBrickWall_32(1)"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Hallway-Circulation:Elevator",
+        "cnFC_equalTo_pr_FaceExposure": "N",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 120
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "Office",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "cnFC_majorOf_pr_Area": 110000,
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "ToiletHall",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Support:Toilet-Support:ToiletHall",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonCorridor-Circulation:Office",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 232,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 132
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Corridor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 180,
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonCorridor-Circulation:Corridor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 120
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Circulation:Corridor-Circulation:OfficeHallway",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 120
+    },
+    
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Int_AreatedBrickWall_17(1)"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PublicCirculation",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "PrivateCirculation-PublicCirculation",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 0,
+        "stFC_DoorCount": 0,
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-NoCirculation",
+        "cnFC_contains_pr_OccupancyType": "Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Classroom",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 2,
+        "stFC_DoorCount": 2,
+        "stFC_DoorHeight": 232,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 132
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Circulation:CommonHallway-Circulation:Corridor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 180,
+        "stFC_WallTypeName": "WA_Int_BrickWall_46"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Staircase",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Fake",
+        "stFC_ApertureCount": 1,
+        "stFC_HoleCount": 0,
+        "stFC_HoleWidth":120,
+        "stFC_HoleHeight":230
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Staircase",
+        "cnFC_equalTo_pr_FaceExposure": "N",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 210
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Elevator",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Int_AreatedBrickWall_32(1)"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Hallway-Circulation:Elevator",
+        "cnFC_equalTo_pr_FaceExposure": "N",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 120
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Corridor-Library",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 120,
+        "stFC_WallTypeName": "WA_IE_BrickWall interna_50-(1+1)_Int"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Library",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_IE_BrickWall interna_50-(1+1)_Int"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "ToiletHall",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "Support:Toilet-Support:ToiletHall",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "NoCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "Office",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 210,
+        "stFC_DoorShutterNumber": 1,
+        "stFC_DoorWidth": 85
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_CirculationType": "PrivateCirculation-PrivateCirculation",
+        "cnFC_contains_pr_OccupancyType": "Circulation:Corridor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_WallTypeName": "WA_Fake",
+        "stFC_ApertureCount": 0,
+        "stFC_HoleCount": 1,
+        "stFC_HoleWidth":120,
+        "stFC_HoleHeight":230
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_contains_pr_OccupancyType": "CommonHallway-Circulation:Corridor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockA",
+        "stFC_ApertureCount": 1,
+        "stFC_DoorCount": 1,
+        "stFC_DoorHeight": 230,
+        "stFC_DoorShutterNumber": 2,
+        "stFC_DoorWidth": 180
+    },
+    
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intVer",
+        "cnFC_minorOf_pr_Area": 50000,
+        "stFC_ApertureCount": 0,
+        "stFC_DoorCount": 0
+    }
+]

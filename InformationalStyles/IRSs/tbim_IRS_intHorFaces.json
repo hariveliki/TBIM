@@ -1,0 +1,33 @@
+[
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intHor",
+        "cnFC_contains_pr_IsHeated": "-",
+        "stFC_ApertureCount": 0,
+        "stFC_DoorCount": 0,
+        "stFC_HoleCount": 0,
+        "stFC_FloorTypeName": "Default2"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intHor",
+        "cnFC_contains_rl_HasLocation_tpBB": "BlockA",
+        "cnFC_contains_rl_HasLocation_tpBS": "_926cm",
+        "stFC_FloorTypeName": "FL_Int_Stimip_52"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intHor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockABlockB",
+        "stFC_FloorTypeName": "FL_Int_Stimip_52"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intHor",
+        "cnFC_contains_pr_OccupancyType": "Staircase",
+        "stFC_FloorTypeName": "FL_Fake",
+        "stFC_HoleCount": 1
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "intHor",
+        "cnFC_contains_pr_OccupancyType": "Elevator",
+        "stFC_FloorTypeName": "FL_Fake",
+        "stFC_HoleCount": 1
+    }
+]

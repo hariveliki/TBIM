@@ -1,0 +1,17 @@
+[
+    {
+        "cnFC_equalTo_pr_TopologicalType": "topHor",
+        "cnFC_equalTo_pr_IsHeated": 0,
+        "stFC_RoofTypeName": "RF_Stimip_50"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "topHor",
+        "cnFC_equalTo_pr_IsHeated": 1,
+        "stFC_RoofTypeName": "RF_Stimip_50"
+    },
+    {
+        "cnFC_equalTo_pr_TopologicalType": "topHor",
+        "cnFC_equalTo_rl_HasLocation_tpBB": "BlockB",
+        "stFC_RoofTypeName": "RF_Stimip_50"
+    }
+]
