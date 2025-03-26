@@ -1,0 +1,17 @@
+[
+  "adjacent_cell_count",
+  "cardinal_direction",
+  "component_type",
+  "condition_state",
+  "energy_area",
+  "energy_segmentation",
+  "energy_segmentation_color",
+  "energy_volume",
+  "env_color",
+  "sia_color",
+  "sia_type",
+  "space_type",
+  "temperature",
+  "toplevel",
+  "uuid"
+]
